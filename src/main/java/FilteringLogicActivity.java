@@ -31,7 +31,7 @@ import java.util.Set;
  *   |5     |'Adam'          |'Jones'        |
  *
  * This would include employees Steve Jones, Adam Jones, and Steve Garcia. If we changed the OR to an AND
- * the results set would only include Steve Jones.
+ * the results set would only include Steve Jones
  *
  * Here are a few examples of using some logical operators in a WHERE clause:
  *      SELECT * FROM table WHERE condition1 = value1 AND condition2 = value2;
